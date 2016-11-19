@@ -3,28 +3,28 @@
 ## Contents
 
 1. Day1
-    - [Tensorflow Bascis]()
-    - [Numpy Bascis]()
-    - [Image Processing]()
-    - [Linear Regression]()
+    - [Basci Python](notebooks/basic_python.ipynb)
+    - [Bascic Tensorflow](notebooks/basic_tf.ipynb)
+    - [Image Processing](notebooks/image_processing.ipynb)
+    - [Linear Regression](notebooks/linear_regression.ipynb)
     
 2. Day2
-    - [Rogistic Regression]()
-    - [Multilayer Perceptron]()
-    - [Exercise - 1]()
+    - [Rogistic Regression](notebooks/rogistic_regression.ipynb)
+    - [Multilayer Perceptron](notebooks/mlp.ipynb)
+    - [Exercise - 1](notebooks/ex1.ipynb)
 
 3. Day3
-    - [Convolutional Neural Network]()
-    - [Tensorboard]()
-    - [Exercise - 2]()
+    - [Convolutional Neural Network](notebooks/cnn.ipynb)
+    - [Tensorboard](notebooks/tensorboard.ipynb)
+    - [Exercise - 2](notebook/ex2.ipynb)
 
 4. Day4
-    - [Tensorflow slim]()
-    - [Pre-trained Network]()
-    - [Exercise - 3]()
+    - [Tensorflow slim](notebooks/tf_slim.ipynb)
+    - [Pre-trained Network](notebooks/pretrained.ipynb)
+    - [Exercise - 3](notebooks/ex3.ipynb)
 
 5. Day5
-    - [Neural style]()
+    - [Neural style](notebooks/neural_stype.ipynb)
 
 ## Installation guide
 
