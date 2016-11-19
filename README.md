@@ -9,7 +9,7 @@
     - [Linear Regression](notebooks/linear_regression.ipynb)
     
 2. Day2
-    - [Rogistic Regression](notebooks/rogistic_regression.ipynb)
+    - [Logistic Regression](notebooks/logistic_regression.ipynb)
     - [Multilayer Perceptron](notebooks/mlp.ipynb)
     - [Exercise - 1](notebooks/ex1.ipynb)
 
@@ -24,7 +24,7 @@
     - [Exercise - 3](notebooks/ex3.ipynb)
 
 5. Day5
-    - [Neural style](notebooks/neural_stype.ipynb)
+    - [Neural style](notebooks/neural_style.ipynb)
 
 ## Installation guide
 
