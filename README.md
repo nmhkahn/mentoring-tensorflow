@@ -16,7 +16,7 @@
 3. Day3
     - [Convolutional Neural Network](notebooks/cnn.ipynb)
     - [Tensorboard](notebooks/tensorboard.ipynb)
-    - [Exercise - 2](notebook/ex2.ipynb)
+    - [Exercise - 2](notebooks/ex2.ipynb)
 
 4. Day4
     - [Tensorflow slim](notebooks/tf_slim.ipynb)
