@@ -11,20 +11,18 @@
 2. Day2
     - [Logistic Regression](notebooks/logistic_regression.ipynb)
     - [Multilayer Perceptron](notebooks/mlp.ipynb)
-    - [Exercise - 1](notebooks/ex1.ipynb)
-
-3. Day3
     - [Convolutional Neural Network](notebooks/cnn.ipynb)
     - [Tensorboard](notebooks/tensorboard.ipynb)
-    - [Exercise - 2](notebooks/ex2.ipynb)
+
+3. Day3
+    - [Exercise](notebooks/ex1.ipynb)
+    - [Tensorflow slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
+    - [Tensorflow models](https://github.com/tensorflow/models/tree/master/slim)
+    - [Pre-trained Network](notebooks/pretrained.ipynb)
 
 4. Day4
-    - [Tensorflow slim](notebooks/tf_slim.ipynb)
-    - [Pre-trained Network](notebooks/pretrained.ipynb)
-    - [Exercise - 3](notebooks/ex3.ipynb)
 
 5. Day5
-    - [Neural style](notebooks/neural_style.ipynb)
 
 ## Installation guide
 
