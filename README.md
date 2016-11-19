@@ -3,8 +3,8 @@
 ## Contents
 
 1. Day1
-    - [Basci Python](notebooks/basic_python.ipynb)
-    - [Bascic Tensorflow](notebooks/basic_tf.ipynb)
+    - [Basic Python](notebooks/basic_python.ipynb)
+    - [Basic Tensorflow](notebooks/basic_tf.ipynb)
     - [Image Processing](notebooks/image_processing.ipynb)
     - [Linear Regression](notebooks/linear_regression.ipynb)
     
