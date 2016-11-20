@@ -13,16 +13,18 @@
     - [Multilayer Perceptron](notebooks/mlp.ipynb)
     - [Convolutional Neural Network](notebooks/cnn.ipynb)
     - [Tensorboard](notebooks/tensorboard.ipynb)
+    - [Exercise](notebooks/ex1.ipynb)
 
 3. Day3
-    - [Exercise](notebooks/ex1.ipynb)
     - [Tensorflow slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
     - [Tensorflow models](https://github.com/tensorflow/models/tree/master/slim)
     - [Pre-trained Network](notebooks/pretrained.ipynb)
+    - [Neural style paper](https://arxiv.org/pdf/1508.06576v2.pdf)
 
-4. Day4
-
-5. Day5
+4. Day4, 5
+    - [Neural style in tensorflow](notebooks/neural_stype.ipynb)
+    
+    There are plenty of implementation version of neural style (also in tensorflow!) Google it.
 
 ## Installation guide
 
