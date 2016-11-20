@@ -13,7 +13,7 @@
     - [Convolutional Neural Network](notebooks/cnn.ipynb)
     - [Tensorboard](notebooks/tensorboard.ipynb)
     - [Image Processing](notebooks/image_processing.ipynb)
-    - [Exercise](notebooks/ex1.ipynb)
+    - [Exercise](notebooks/exercise.ipynb)
 
 3. Day3
     - [Tensorflow slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
