@@ -33,6 +33,10 @@ First, you need to set python virtual environment.<br>
 $ cd location_you_want
 # .venv3 can be changeable (whatever you want)
 $ virtualenv .venv3 -p python3
+
+# to activate virtual env
+# .venv3 can be changeable
+$ source .venv3/bin/activate
 ```
 
 And then, you must install python libraries using pip. See `requirements.txt` for more info.
