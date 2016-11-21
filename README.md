@@ -5,24 +5,22 @@
 1. Day1
     - [Basic Python](notebooks/basic_python.ipynb)
     - [Basic Tensorflow](notebooks/basic_tf.ipynb)
-    - [Linear Regression](notebooks/linear_regression.ipynb)
-    - [Logistic Regression](notebooks/logistic_regression.ipynb)
     
 2. Day2
+    - [Logistic Regression](notebooks/logistic_regression.ipynb)
+    - [Linear Regression](notebooks/linear_regression.ipynb)
     - [Multilayer Perceptron](notebooks/mlp.ipynb)
     - [Convolutional Neural Network](notebooks/cnn.ipynb)
+    
+3. Day3, 4
     - [Tensorboard](notebooks/tensorboard.ipynb)
     - [Image Processing](notebooks/image_processing.ipynb)
     - [Exercise](notebooks/exercise.ipynb)
 
-3. Day3
+4. Day5
     - [Tensorflow slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
     - [Tensorflow models](https://github.com/tensorflow/models/tree/master/slim)
     - [Pre-trained Network](notebooks/pretrained.ipynb)
-    - [Neural style paper](https://arxiv.org/pdf/1508.06576v2.pdf)
-
-4. Day4, 5
-    - [Neural style in tensorflow](notebooks/neural_style.ipynb)
     
     There are plenty of implementation version of neural style (also in tensorflow!) Google it.
 
