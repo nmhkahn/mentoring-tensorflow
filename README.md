@@ -58,6 +58,23 @@ $ wget https://ci.tensorflow.org/view/Nightly/job/nightly-matrix-linux-gpu/TF_BU
 $ pip3 install tensorflow_blabla.whl
 ```
 
+Then open (or create) `bash_profile` file in your home directory.
+
+```shell
+$ vim ~/.bash_profile
+```
+
+And write code below in `bash_profile`.
+
+```shell
+export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/local/cuda/lib64"
+export CUDA_HOME=/usr/local/cuda
+export CUDA_ROOT=/usr/local/cuda
+
+export PATH=/usr/local/cuda/bin:$PATH
+export PATH=/home/nmhkahn/Library/torch/install/bin:$PATH
+```
+
 Check everything is fine.
 
 ```shell
