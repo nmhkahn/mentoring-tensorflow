@@ -5,12 +5,10 @@
 1. Week 1
     - [Basic Python](notebooks/basic_python.ipynb)
     - [Basic Tensorflow](notebooks/basic_tf.ipynb)
-    
     - [Logistic Regression](notebooks/logistic_regression.ipynb)
     - [Linear Regression](notebooks/linear_regression.ipynb)
     - [Multilayer Perceptron](notebooks/mlp.ipynb)
     - [Convolutional Neural Network](notebooks/cnn.ipynb)
-
     - [Tensorboard](notebooks/tensorboard.ipynb)
     - [Image Processing](notebooks/image_processing.ipynb)
     - [Exercise](notebooks/exercise.ipynb)
