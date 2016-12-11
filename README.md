@@ -16,8 +16,8 @@
 2. Week 2
 
     - [Exercise](notebooks/flowers.ipynb)
-    - RNN Reading list - [1](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) [2](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.1d68gqvcf)
-    - RNN tutorial - [https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/char_rnn_train_tutorial.ipynb]
+    - RNN Reading list - [[1](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)] [[2](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.1d68gqvcf)]
+    - RNN tutorial - [sjchoi86/char_rnn_train_tutorial.ipynb](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/char_rnn_train_tutorial.ipynb)
 
 ## Installation guide
 
