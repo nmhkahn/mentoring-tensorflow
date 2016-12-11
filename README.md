@@ -2,27 +2,24 @@
 
 ## Contents
 
-1. Day1
+1. Week 1
     - [Basic Python](notebooks/basic_python.ipynb)
     - [Basic Tensorflow](notebooks/basic_tf.ipynb)
     
-2. Day2
     - [Logistic Regression](notebooks/logistic_regression.ipynb)
     - [Linear Regression](notebooks/linear_regression.ipynb)
     - [Multilayer Perceptron](notebooks/mlp.ipynb)
     - [Convolutional Neural Network](notebooks/cnn.ipynb)
-    
-3. Day3, 4
+
     - [Tensorboard](notebooks/tensorboard.ipynb)
     - [Image Processing](notebooks/image_processing.ipynb)
     - [Exercise](notebooks/exercise.ipynb)
 
-4. Day5
-    - [Tensorflow slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
-    - [Tensorflow models](https://github.com/tensorflow/models/tree/master/slim)
-    - [Pre-trained Network](notebooks/pretrained.ipynb)
-    
-    There are plenty of implementation version of neural style (also in tensorflow!) Google it.
+2. Week 2
+
+    - [Exercise](notebooks/flowers.ipynb)
+    - RNN Reading list - [1](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) [2](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767#.1d68gqvcf)
+    - RNN tutorial - [https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/char_rnn_train_tutorial.ipynb]
 
 ## Installation guide
 
